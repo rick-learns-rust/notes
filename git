@@ -1,3 +1,11 @@
+To set up a secure connection between your computer and github, follow the instructions found here:
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+ensure you do at least prerequisite #2.
+
+==
+
 To add a repository created by cargo new <name>, do the following actions:
 
 in GitHub:
